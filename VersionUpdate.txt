@@ -1,4 +1,4 @@
 {
   nameversion: "1.0.1",
-  link: "ss"
+  link: "https://cdn.rawgit.com/nguyenphucbao68/TrickTN/master/1.0.1/Tool_trick_fb.exe"
 }
