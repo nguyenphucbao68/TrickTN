@@ -1,2 +1,3 @@
 Tool TrickTN ver 1.0.4 :
+
  + Cập nhập auto like
