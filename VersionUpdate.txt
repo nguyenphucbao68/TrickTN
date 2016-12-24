@@ -1,5 +1,5 @@
 {
-  nameversion: "1.0.0",
-  link: "https://cdn.rawgit.com/nguyenphucbao68/TrickTN/master/1.0.3/Tool_trick_fb.exe",
-  config: "https://raw.githubusercontent.com/nguyenphucbao68/TrickTN/master/1.0.3/config.ini"
+  nameversion: "1.0.1",
+  link: "https://cdn.rawgit.com/nguyenphucbao68/TrickTN/master/1.0.1/Tool_trick_fb.exe",
+  config: "https://raw.githubusercontent.com/nguyenphucbao68/TrickTN/master/1.0.1/config.ini"
 }
