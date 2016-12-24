@@ -1,3 +1,5 @@
 Tool TrickTN ver 1.0.4 :
+\n
  + Cập nhập auto like
+\n
  + Ngu
