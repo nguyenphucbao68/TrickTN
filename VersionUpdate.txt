@@ -1,5 +1,6 @@
 {
   nameversion: "1.0.4",
   link: "https://cdn.rawgit.com/nguyenphucbao68/TrickTN/master/1.0.4/TrickTN.exe",
-  config: "https://raw.githubusercontent.com/nguyenphucbao68/TrickTN/master/1.0.4/config.ini"
+  config: "https://raw.githubusercontent.com/nguyenphucbao68/TrickTN/master/1.0.4/config.ini",
+  log: "https://raw.githubusercontent.com/nguyenphucbao68/TrickTN/master/1.0.4/changelog.txt"
 }
