@@ -1,3 +1,2 @@
 ﻿CẬP NHẬP
-1. Fix lỗi khi RIP
-2. Các acc bị check point không thể cống hiến cho server
+1. Sửa lỗi khi sử dụng curl like
