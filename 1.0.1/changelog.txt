@@ -1,0 +1,3 @@
+﻿CẬP NHẬP
+1. Fix lỗi khi RIP
+2. Các acc bị check point không thể cống hiến cho server
